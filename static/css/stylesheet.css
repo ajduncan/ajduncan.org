@@ -42,12 +42,10 @@ p {
 }
 
 #header {
-	padding-top: 25px;
+	padding-top: 10px;
 	text-align: justify;
-	min-height: 125px;
-	height: 125px;
-	border-top: 1px solid #000;
-	border-bottom: 1px solid #000;
+	min-height: 120px;
+	height: 120px;
 }
 
 #header:after {
@@ -56,9 +54,22 @@ p {
 	width: 100%;
 }
 
+#navtop {
+	min-width: 85%;
+	float: right;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+#shortbio p {
+	float: left;
+	min-width: 80%;
+}
+
 #andy {
 	display: inline-block;
 	vertical-align: middle;
+	float: left;
 }
 
 #andy img {
@@ -71,6 +82,7 @@ p {
 }
 
 #navrefs {
+	margin-right: 0px;
 	display: inline-block;
 	vertical-align: middle;
 }
