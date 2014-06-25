@@ -37,7 +37,7 @@ h1 {
 	font-style: italic;
 }
 
-#content p {
+p {
 	font-family: "ChatypeB2.1ThinThin";	
 }
 
@@ -46,8 +46,8 @@ h1 {
 	text-align: justify;
 	min-height: 125px;
 	height: 125px;
-	border-top: 1px solid #aaa;
-	border-bottom: 1px solid #aaa;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
 }
 
 #header:after {
@@ -67,7 +67,6 @@ h1 {
 }
 
 #andy p {
-	font-family: 'ChatypeB2.1ThinThin';
 	float: right;
 }
 
@@ -83,6 +82,7 @@ h1 {
 }
 
 #navrefs ul li {
+	padding-right: 10px;
 	display: inline;
 }
 
@@ -90,7 +90,7 @@ h1 {
 #navrefs a:link,
 #navrefs a:visited {
 	display: inline-block;
-	color: #959595;
+	color: #444; /*959595;*/
 	text-decoration: none !important;
 	margin: 0;
 	*zoom: 1;
@@ -106,7 +106,7 @@ h1 {
 #navrefs a:hover,
 #navrefs a:link:hover,
 #navrefs a:visited:hover {
-	color: #444;
+	color: #000;
 }
 
 #navrefs a:link + a:link {
@@ -118,8 +118,8 @@ h1 {
 	text-align: justify;
 	min-height: 75px;
 	height: 75px;
-	border-top: 1px solid #aaa;
-	border-bottom: 1px solid #aaa;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
 }
 
 #footer:after {
@@ -142,7 +142,7 @@ h1 {
 #socialrefs a:link,
 #socialrefs a:visited {
 	display: inline-block;
-	color: #959595;
+	color: #444;
 	text-decoration: none !important;
 	margin: 0;
 	*zoom: 1;
@@ -158,7 +158,7 @@ h1 {
 #socialrefs a:hover,
 #socialrefs a:link:hover,
 #socialrefs a:visited:hover {
-	color: #444;
+	color: #000;
 }
 
 #socialrefs a:link + a:link {
@@ -193,7 +193,6 @@ h1 {
 }
 
 #work p {
-	font-family: 'ChatypeB2.1ThinThin';
 	text-align: center;
 	bottom: 0px;
 }
