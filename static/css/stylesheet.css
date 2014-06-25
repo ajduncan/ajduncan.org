@@ -56,13 +56,16 @@ p {
 
 #navtop {
 	min-width: 85%;
+	height: 76px;
 	float: right;
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
+	display: table;
+	overflow: hidden;
 }
 
-#shortbio p {
-	float: left;
+#shortbio {
+	display: table-cell;
 	min-width: 80%;
 }
 
@@ -82,20 +85,24 @@ p {
 }
 
 #navrefs {
+	height: 100%;
 	margin-right: 0px;
-	display: inline-block;
+	display: table-cell;
 	vertical-align: middle;
 }
 
 #navrefs ul {
+	text-align: right;
 	display: block;
 	list-style-type: none;
 	text-decoration: none;
 }
 
 #navrefs ul li {
-	padding-right: 10px;
+	padding-left: 10px;
 	display: inline;
+	vertical-align: middle;
+
 }
 
 #navrefs a,
@@ -126,10 +133,11 @@ p {
 }
 
 #footer {
-	padding-top: 25px;
+	display: table;
 	text-align: justify;
-	min-height: 75px;
-	height: 75px;
+	min-height: 76px;
+	height: 76px;
+	width: 100%;
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
 }
@@ -141,13 +149,15 @@ p {
 }
 
 #copyright {
-	display: inline-block;
+	display: table-cell;
 	vertical-align: middle;
+	text-align: left;
 }
 
 #socialrefs {
-	display: inline-block;
+	display: table-cell;
 	vertical-align: middle;
+	text-align: right;
 }
 
 #socialrefs a,
