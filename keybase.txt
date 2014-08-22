@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/ajduncan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ajduncan.org
+  * I am ajduncan (https://keybase.io/ajduncan) on keybase.
+  * I have a public key with fingerprint 3606 6AD7 8610 C170 60D5  5785 C94A 2554 AB0D 6C6F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.19"
+        },
+        "key": {
+            "fingerprint": "36066ad78610c17060d55785c94a2554ab0d6c6f",
+            "host": "keybase.io",
+            "key_id": "C94A2554AB0D6C6F",
+            "uid": "cefe8ade1f9551790e036d5da0a32900",
+            "username": "ajduncan"
+        },
+        "merkle_root": {
+            "ctime": 1408725453,
+            "hash": "1b7c7e60ccd61373b73ebfde994f26666a75c0ce59e4377614c3bb467824077a0e45444675bfff6842b5bafc2630b33c5e7997318c2d1ca1762839ff2bc7c9c5",
+            "seqno": 43021
+        },
+        "service": {
+            "hostname": "ajduncan.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408725487,
+    "expire_in": 157680000,
+    "prev": "2b2c7b75f2a70bbbbb66ee526d87a0c1cb9d800ac144ae8896d4b45a307c5ec0",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdUn1QFVUUfz5EwfxARwfyY2AWHY2Y192Pu3f3NUYGz0F0ikAqsQl37959LDze
+PvY9vtLnB6ajCUSg5QfDYAwlggXoH4SCYupA2lDq4Mek+EcqSJPUlIqWtsvYVJ6/
+7rnnd37n/M45lVNCbPZxvSkLVjZN8ejjzg7JtvT7+XfXUrKulFDOtRT2aMQbsF5e
+KY9QTiqXlMiSnzg0PcarK8SR4495iomnConh13SviQIOzkGLVDDewlvZquZ1E8Nn
+aBYZxfKA5yUFCTwNMI0ADxQIkQCxyEkMhJwkA4XHvGpyZuv+wP/KUmOcWZpi/iaK
+3BILv+Q1kMQn8kvNWMFYABOVCJJCaFWEkEYiIIDlFahIQGIZEQAL6CfGU01SjlLg
+xZLX6jePGLkekmXo+phqHNAsCM0BATGQg6zZkeTPNpNoGWFEeICxwtMsYmXEEllV
+iChyKsObJiGIASZQJByLEE9zmJVljkcCwwGEJEA4yHGmD2VVVXmBY2QoSypmeBbI
+LIshQaKIWFrAjEJjiUY8I7CiqjIyRljE0JTgJ/lenXJyLGDooOUahRomVtvW1J4R
+59ANt5njM/SAjnWPGckOBHxOS3OgxGchi4icdegpSZaseRVzZ//dqlXjmXkIKJ4i
+xT7NIFmahYCIF4BpVh1SaHIyMoORjKDKSAjIlvE8IZDhFcEcAaaxLCpmhoRpjpOI
+IIi8wskclFiAzAlg8K9KaPYpuU1Kv+b2SoECg1DB7fa5423j7LYJoXbrbG2TwiP+
+ueXc/dOerHgzbGvkdeZGWlhex3pm36H5TbVJ4I8NFW/kCTl7BX9FZfvu5vfO1XWB
+3pHY4v0nOeeq8C8WzNiTujjb8BwVz2c2laVsDZk41BbbHfcX1Tu9eniNPYH9JS2s
+b5trW6Y2euXqjE+MnVWjUdtm2dw9p9d5Xh/fkTKasdRwHU+4VXpncPfRjoaLsx/N
+fOhnGhfJBwfe+nmotfFsZ8WXyVG3wOGe9KquiccjHie/tLHOFdbTKC/ccltPCQ6e
+7LAdCI+P+SmmP6pycf7Flo2TBnMG752Z/oAw+Nql/q7h+iuP7ikfX3i7aXP/zr0j
+yf3uqqlO+uZXs4abeS3ucvvdnSQ4sP7lF3aEyD9caK/v+SApKrp+TkFZwqaGmnNx
+75xYGPr98u36qqKR0oqWlGMhnbWLwlwe5tK3em/Np4/7TpSr4afLg/uk329ksN2T
+v9vbVrzpWlKf60rnncbZ0TW562eVfR4dUfxnZG1+TnXbqQ/fPTzBNf8iGD1/al7r
+7qS4V/Yd2uWZ9yjh6j3Y/pwe+GxdKXfj8prbd/e833dkdWX01P7kXc3hRdt3HHE8
+2PKkpWfA+3Dm9RWDebHn4WXfbxsSu/cUrrtwNrWvrvajktGogdDa8rTNpcvTG7q3
+nJ52K31y15mbv97PYGJXpy5ZduDrF0ciuc6BxNYa+9aV1zZ2ftN9cPjwj3NfdTw/
+FDtnWeTxY5nVfwM=
+=YLHy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ajduncan
+
+==================================================================
